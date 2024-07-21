@@ -1,0 +1,16 @@
+2024-07-21 10:10:18,467 - INFO - Program terminated successfully.
+2024-07-21 10:10:35,264 - DEBUG - Starting new HTTPS connection (1): ipapi.co:443
+2024-07-21 10:10:36,116 - DEBUG - https://ipapi.co:443 "GET /44.228.249.3/json/ HTTP/11" 200 None
+2024-07-21 10:11:55,851 - INFO - Program terminated successfully.
+2024-07-21 10:12:26,284 - DEBUG - Starting new HTTPS connection (1): ipapi.co:443
+2024-07-21 10:12:27,113 - DEBUG - https://ipapi.co:443 "GET /44.228.249.3/json/ HTTP/11" 200 None
+2024-07-21 10:13:13,623 - INFO - Program terminated successfully.
+2024-07-21 10:16:24,043 - DEBUG - Starting new HTTPS connection (1): ipapi.co:443
+2024-07-21 10:16:24,886 - DEBUG - https://ipapi.co:443 "GET /44.228.249.3/json/ HTTP/11" 200 None
+2024-07-21 10:16:26,636 - INFO - Program terminated successfully.
+2024-07-21 10:18:32,041 - DEBUG - Starting new HTTPS connection (1): ipapi.co:443
+2024-07-21 10:18:32,989 - DEBUG - https://ipapi.co:443 "GET /44.228.249.3/json/ HTTP/11" 200 None
+2024-07-21 10:18:38,550 - INFO - Program terminated successfully.
+2024-07-21 10:18:58,039 - DEBUG - Starting new HTTPS connection (1): ipapi.co:443
+2024-07-21 10:18:58,897 - DEBUG - https://ipapi.co:443 "GET /44.228.249.3/json/ HTTP/11" 200 None
+2024-07-21 10:19:09,182 - INFO - Program terminated successfully.
